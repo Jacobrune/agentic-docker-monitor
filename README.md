@@ -39,7 +39,7 @@ clear state   increment attempt counter
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/agentic-docker-monitor.git
+git clone https://github.com/Jacobrune/agentic-docker-monitor.git
 cd agentic-docker-monitor
 ```
 
